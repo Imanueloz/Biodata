@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="fotoku">Foto Saya</string>
+    <string name="nama">Nama : Imanuel Khrisna Ananda</string>
+    <string name="NIM">NIM : A11.2020.13030</string>
+    <string name="Hobi">Hobi : Mendengarkan musik</string>
+    <string name="Desc">Deskripsi Singkat : Saya asli Semarang tinggal di jalan Taman Tirtoyoso No 6. Sekarang saya berkuliah di Universitas Dian Nuswantoro.</string>
+    <string name="Alamat">Alamat :</string>
+    <string name="btnAlamat">Alamat</string>
+    <string name="Telepon">Telepon :</string>
+    <string name="btnTelepon">Telepon</string>
+    <string name="Email">Email :</string>
+    <string name="btnEmail">Email</string>
+</resources>
